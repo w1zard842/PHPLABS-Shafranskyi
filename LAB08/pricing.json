@@ -1,0 +1,48 @@
+{
+  "monthly": [
+    {
+      "id": "starter",
+      "plan": "Starter",
+      "price": 99,
+      "popular": false,
+      "features": ["5 проєктів", "2 ГБ сховища", "Email підтримка"]
+    },
+    {
+      "id": "pro",
+      "plan": "Pro",
+      "price": 299,
+      "popular": true,
+      "features": ["Необмежені проєкти", "20 ГБ сховища", "Пріоритетна підтримка", "Аналітика"]
+    },
+    {
+      "id": "business",
+      "plan": "Business",
+      "price": 599,
+      "popular": false,
+      "features": ["Все з Pro", "100 ГБ сховища", "Виділений менеджер", "API доступ"]
+    }
+  ],
+  "yearly": [
+    {
+      "id": "starter",
+      "plan": "Starter",
+      "price": 79,
+      "popular": false,
+      "features": ["5 проєктів", "2 ГБ сховища", "Email підтримка"]
+    },
+    {
+      "id": "pro",
+      "plan": "Pro",
+      "price": 239,
+      "popular": true,
+      "features": ["Необмежені проєкти", "20 ГБ сховища", "Пріоритетна підтримка", "Аналітика"]
+    },
+    {
+      "id": "business",
+      "plan": "Business",
+      "price": 479,
+      "popular": false,
+      "features": ["Все з Pro", "100 ГБ сховища", "Виділений менеджер", "API доступ"]
+    }
+  ]
+}
